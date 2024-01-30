@@ -1,0 +1,6 @@
+If you want to use your project on another machine, clone the repository and recreate the Conda environment:
+
+bash
+Copy code
+git clone <your-github-repository-url>
+conda env create -f environment.yml
