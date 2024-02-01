@@ -2,572 +2,572 @@
 <railml nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(0.0, 26.33181403717026)" y="(15.408807958243415, 25.07590460544452)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(0.0, 37.77119986445177)" y="(15.40098146168748, 35.43979859689716)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(15.408807958243415, 25.07590460544452)" y="(242.8851176215685, 45.0265265959315)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(15.40098146168748, 35.43979859689716)" y="(242.9296919721528, 39.50734596676193)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(14.955136286298512, 15.509437329601496)" y="(152.14203943297616, 30.488480545580387)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(14.905639417353086, 25.906458990299143)" y="(152.13700342181255, 31.30625445896294)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(15.324168133549392, 11.324430919950828)" y="(165.06667635188205, 27.217893875436857)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(15.256355451070704, 21.696328002144583)" y="(165.04540195391746, 27.133901848690584)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(152.14203943297616, 30.488480545580387)" y="(165.06667635188205, 27.217893875436857)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(152.13700342181255, 31.30625445896294)" y="(165.04540195391746, 27.133901848690584)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(152.14203943297616, 30.488480545580387)" y="(207.00457135625766, 35.7330821917858)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(152.13700342181255, 31.30625445896294)" y="(207.01406224560924, 32.72012450569309)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(207.00457135625766, 35.7330821917858)" y="(229.05068041471532, 38.11021742527373)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(207.01406224560924, 32.72012450569309)" y="(229.0671852574451, 33.55786706751678)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(165.06667635188205, 27.217893875436857)" y="(178.13887206450454, 28.35865604225546)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(165.04540195391746, 27.133901848690584)" y="(178.12058396905195, 27.361925181467086)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(178.13887206450454, 28.35865604225546)" y="(194.0995636274747, 29.787432654760778)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(178.12058396905195, 27.361925181467086)" y="(194.08507853897754, 27.676274279830977)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(194.0995636274747, 29.787432654760778)" y="(207.00457135625766, 35.7330821917858)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(194.08507853897754, 27.676274279830977)" y="(207.01406224560924, 32.72012450569309)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(194.0995636274747, 29.787432654760778)" y="(229.06651220889762, 32.897671666229144)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(194.08507853897754, 27.676274279830977)" y="(229.06027177354554, 28.34500999271404)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(167.88598635784, 22.728039022535086)" y="(178.13887206450454, 28.35865604225546)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(167.84469287237152, 22.447915846132673)" y="(178.12058396905195, 27.361925181467086)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(167.88598635784, 22.728039022535086)" y="(209.45891490849317, 25.918037881841883)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(167.84469287237152, 22.447915846132673)" y="(209.42520795378368, 22.735238269669935)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(209.45891490849317, 25.918037881841883)" y="(240.15443176051485, 30.652200632961467)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(209.42520795378368, 22.735238269669935)" y="(240.1367053630529, 25.325837441370822)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(209.45891490849317, 25.918037881841883)" y="(197.62537527442328, 20.488078203750774)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(209.42520795378368, 22.735238269669935)" y="(197.56977915932657, 18.132200573803857)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(156.84116496914066, 16.935248032794334)" y="(167.88598635784, 22.728039022535086)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(156.77627912774915, 17.42704197403509)" y="(167.84469287237152, 22.447915846132673)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(146.25430819147732, 11.317507911589928)" y="(156.84116496914066, 16.935248032794334)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(146.16652400873136, 12.549221971421503)" y="(156.77627912774915, 17.42704197403509)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(28.613028602470877, 7.809782959287986)" y="(52.31010951366625, 10.69023226108402)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(28.52785719599342, 17.25452496332582)" y="(52.23389661998954, 18.48025120899547)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(52.16567812670837, 10.200229056295939)" y="(63.127476981666405, 11.668472263263538)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(52.08734929683851, 18.000405335216783)" y="(63.053884711058345, 18.703185845981352)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(52.31010951366625, 10.69023226108402)" y="(74.16196175196092, 2.849436933756806)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(52.23389661998954, 18.48025120899547)" y="(74.04821052862098, 9.11518044618424)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(74.16196175196092, 2.849436933756806)" y="(84.56083972202032, 0.0)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(74.04821052862098, 9.11518044618424)" y="(84.433072316373, 5.540235716034658)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(84.56083972202032, 0.0)" y="(137.88509326727944, 6.450299016898498)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(84.433072316373, 5.540235716034658)" y="(137.7773476295115, 8.267006137873977)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(137.88509326727944, 6.450299016898498)" y="(146.25430819147732, 11.317507911589928)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(137.7773476295115, 8.267006137873977)" y="(146.16652400873136, 12.549221971421503)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(74.16196175196092, 2.849436933756806)" y="(146.25430819147732, 11.317507911589928)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(74.04821052862098, 9.11518044618424)" y="(146.16652400873136, 12.549221971421503)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(63.127476981666405, 11.668472263263538)" y="(167.88598635784, 22.728039022535086)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(63.053884711058345, 18.703185845981352)" y="(167.84469287237152, 22.447915846132673)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(63.127476981666405, 11.668472263263538)" y="(74.95450022397563, 8.59170294739306)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(63.053884711058345, 18.703185845981352)" y="(74.86568238330074, 14.80124507076107)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(74.95450022397563, 8.59170294739306)" y="(156.84116496914066, 16.935248032794334)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(74.86568238330074, 14.80124507076107)" y="(156.77627912774915, 17.42704197403509)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.06651220889762, 32.897671666229144)" y="(240.15443176051485, 30.652200632961467)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.06027177354554, 28.34500999271404)" y="(240.1367053630529, 25.325837441370822)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.05068041471532, 38.11021742527373)" y="(242.8851176215685, 45.0265265959315)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.0671852574451, 33.55786706751678)" y="(242.9296919721528, 39.50734596676193)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.06651220889762, 32.897671666229144)" y="(428.17007109776023, 49.14456733316183)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.06027177354554, 28.34500999271404)" y="(428.2043930826476, 30.690086247283034)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(428.17007109776023, 49.14456733316183)" y="(416.05158595973626, 42.95213587768376)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(428.2043930826476, 30.690086247283034)" y="(416.0607354409585, 25.344584841281176)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(416.05158595973626, 42.95213587768376)" y="(428.0518316550588, 43.883993431110866)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(416.0607354409585, 25.344584841281176)" y="(428.06321922992356, 25.43856780754868)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(240.15443176051485, 30.652200632961467)" y="(253.79572704739985, 27.542564548319206)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(240.1367053630529, 25.325837441370822)" y="(253.76235535636079, 21.2643812505994)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(242.8851176215685, 45.0265265959315)" y="(255.2485005047929, 51.16678283456713)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(242.9296919721528, 39.50734596676193)" y="(255.31798241415527, 44.783583882497624)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(255.2485005047929, 51.16678283456713)" y="(268.0130879342614, 58.24992062756792)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(255.31798241415527, 44.783583882497624)" y="(268.1115301850368, 50.97455180820543)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(268.0130879342614, 58.24992062756792)" y="(282.907880569197, 66.25416098278947)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(268.1115301850368, 50.97455180820543)" y="(283.0389775848598, 57.93777317914646)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(282.907880569197, 66.25416098278947)" y="(342.1415431127534, 71.63596014829818)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(283.0389775848598, 57.93777317914646)" y="(342.2870998913422, 59.18367285677232)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.05068041471532, 38.11021742527373)" y="(445.1808830969094, 55.47034964058548)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(229.0671852574451, 33.55786706751678)" y="(445.2402142836945, 35.82738668809179)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(430.4597919525986, 59.08953781216405)" y="(445.1808830969094, 55.47034964058548)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(430.5371561186621, 40.473697503097355)" y="(445.2402142836945, 35.82738668809179)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(255.2485005047929, 51.16678283456713)" y="(269.62497426595655, 54.534934793482535)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(255.31798241415527, 44.783583882497624)" y="(269.70696215800126, 47.14760660275351)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(253.79572704739985, 27.542564548319206)" y="(264.5324652544223, 25.091030449140817)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(253.76235535636079, 21.2643812505994)" y="(264.4867620138102, 18.063692855881527)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(253.79572704739985, 27.542564548319206)" y="(269.30987508859835, 19.692118392675184)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(253.76235535636079, 21.2643812505994)" y="(269.239888223412, 12.332093887380324)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(269.30987508859835, 19.692118392675184)" y="(344.0628294455528, 22.467331085936166)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(269.239888223412, 12.332093887380324)" y="(343.993565878307, 9.888408135040663)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(344.0628294455528, 22.467331085936166)" y="(355.76097931261756, 23.35772742005065)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(343.993565878307, 9.888408135040663)" y="(355.6938189501525, 9.96202539326623)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(344.0628294455528, 22.467331085936166)" y="(354.09143779057194, 17.861762540997006)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(343.993565878307, 9.888408135040663)" y="(354.000552254176, 4.5834476450691)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(354.09143779057194, 17.861762540997006)" y="(335.22454198324704, 17.182535893516615)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(354.000552254176, 4.5834476450691)" y="(335.1335664316139, 5.221415382344276)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(264.5324652544223, 25.091030449140817)" y="(361.33484897509334, 30.353897956432775)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(264.4867620138102, 18.063692855881527)" y="(361.2973646882747, 16.568020623759367)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(268.0130879342614, 58.24992062756792)" y="(345.284292810451, 65.82872406998649)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(268.1115301850368, 50.97455180820543)" y="(345.40403337197495, 53.15792706841603)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(345.284292810451, 65.82872406998649)" y="(355.86789132480044, 70.27967926044948)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(345.40403337197495, 53.15792706841603)" y="(356.0054399227374, 56.86936730553862)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(356.2699025931943, 61.38278037321288)" y="(269.62497426595655, 54.534934793482535)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(356.3685718890629, 47.94575920293573)" y="(269.70696215800126, 47.14760660275351)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(356.2699025931943, 61.38278037321288)" y="(430.4597919525986, 59.08953781216405)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(356.3685718890629, 47.94575920293573)" y="(430.5371561186621, 40.473697503097355)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(355.86789132480044, 70.27967926044948)" y="(367.7691239993728, 79.26757804001682)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(356.0054399227374, 56.86936730553862)" y="(367.94407509756275, 65.02507658547256)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(367.7691239993728, 79.26757804001682)" y="(377.2042699480953, 87.55062539782375)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(367.94407509756275, 65.02507658547256)" y="(377.4139238050848, 72.648198387702)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(354.09143779057194, 17.861762540997006)" y="(367.2960571672593, 14.199566662544385)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(354.000552254176, 4.5834476450691)" y="(367.18718197068665, 0.0)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(355.76097931261756, 23.35772742005065)" y="(366.1230670780351, 20.391524964245036)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(355.6938189501525, 9.96202539326623)" y="(366.0413866767194, 6.272901235497557)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(367.2960571672593, 14.199566662544385)" y="(555.7426670676505, 33.35222529480234)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(367.18718197068665, 0.0)" y="(555.688655535283, 5.994354278664105)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(555.7426670676505, 33.35222529480234)" y="(576.9653044797888, 35.21889943489805)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(555.688655535283, 5.994354278664105)" y="(576.9162051259191, 6.37919974012766)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(555.7426670676505, 33.35222529480234)" y="(580.2630869762215, 50.64147316629533)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(555.688655535283, 5.994354278664105)" y="(580.2807756103866, 21.569207576918416)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(580.2630869762215, 50.64147316629533)" y="(593.9525352090714, 57.48792670154944)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(580.2807756103866, 21.569207576918416)" y="(593.9980106463772, 27.458963106269948)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(593.9525352090714, 57.48792670154944)" y="(606.8466540699883, 62.751090251957066)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(593.9980106463772, 27.458963106269948)" y="(606.9131293878891, 31.821191439405084)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(606.8466540699883, 62.751090251957066)" y="(620.1835165524099, 70.04799688700587)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(606.9131293878891, 31.821191439405084)" y="(620.2797977466253, 38.185945341712795)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(620.1119790821394, 79.62477670633234)" y="(608.4142207842378, 82.2263244552305)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(620.2500556353189, 47.766260575153865)" y="(608.5654297798756, 51.1840282244375)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(580.2630869762215, 50.64147316629533)" y="(366.1230670780351, 20.391524964245036)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(580.2807756103866, 21.569207576918416)" y="(366.0413866767194, 6.272901235497557)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(355.76097931261756, 23.35772742005065)" y="(593.9525352090714, 57.48792670154944)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(355.6938189501525, 9.96202539326623)" y="(593.9980106463772, 27.458963106269948)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(361.33484897509334, 30.353897956432775)" y="(416.05158595973626, 42.95213587768376)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(361.2973646882747, 16.568020623759367)" y="(416.0607354409585, 25.344584841281176)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(430.4597919525986, 59.08953781216405)" y="(620.1119790821394, 79.62477670633234)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(430.5371561186621, 40.473697503097355)" y="(620.2500556353189, 47.766260575153865)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(428.17007109776023, 49.14456733316183)" y="(620.1835165524099, 70.04799688700587)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(428.2043930826476, 30.690086247283034)" y="(620.2797977466253, 38.185945341712795)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(345.284292810451, 65.82872406998649)" y="(568.6962448032573, 90.43209644826129)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(345.40403337197495, 53.15792706841603)" y="(568.88930565599, 62.16124747751746)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(568.6962448032573, 90.43209644826129)" y="(596.4747524494014, 84.85903529566713)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(568.88930565599, 62.16124747751746)" y="(596.6392666687607, 54.64982790639624)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.4747524494014, 84.85903529566713)" y="(568.5136225479364, 96.43752153753303)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.6392666687607, 54.64982790639624)" y="(568.7329134947504, 68.17850670276675)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.9068626831286, 89.99653977202252)" y="(584.1307654741395, 98.1198811295908)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(597.0937265440589, 59.756384462234564)" y="(584.355018160335, 68.77038316032849)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(584.1307654741395, 98.1198811295908)" y="(573.4630003813945, 105.17667681607418)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(584.355018160335, 68.77038316032849)" y="(573.7196673364961, 76.57081675133668)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(568.5136225479364, 96.43752153753303)" y="(372.801167768077, 75.2014877217589)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(568.7329134947504, 68.17850670276675)" y="(372.9576116964163, 60.60832046030555)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(372.801167768077, 75.2014877217589)" y="(355.86789132480044, 70.27967926044948)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(372.9576116964163, 60.60832046030555)" y="(356.0054399227374, 56.86936730553862)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(537.2932450456719, 107.84726388787385)" y="(584.1307654741395, 98.1198811295908)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(537.5670728724508, 81.76599416323006)" y="(584.355018160335, 68.77038316032849)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(537.7281608815829, 111.9825942373136)" y="(573.4630003813945, 105.17667681607418)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(538.0199653350865, 85.87033337005414)" y="(573.7196673364961, 76.57081675133668)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(538.3336125916976, 118.46650667232461)" y="(558.5131773414323, 115.2800814693328)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(538.6536148007144, 92.31099191645626)" y="(558.8162034080888, 87.71632415859494)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(558.5131773414323, 115.2800814693328)" y="(573.4630003813945, 105.17667681607418)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(558.8162034080888, 87.71632415859494)" y="(573.7196673364961, 76.57081675133668)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(538.3336125916976, 118.46650667232461)" y="(403.35269026027527, 104.60527219297364)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(538.6536148007144, 92.31099191645626)" y="(403.63277274311986, 87.87483624159358)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(404.12739346179296, 97.7906656425912)" y="(537.7281608815829, 111.9825942373136)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(404.3776251327363, 81.00718584819697)" y="(538.0199653350865, 85.87033337005414)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(537.2932450456719, 107.84726388787385)" y="(404.0426106720406, 92.83377941255458)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(537.5670728724508, 81.76599416323006)" y="(404.27122785756364, 76.0569732306758)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(377.2042699480953, 87.55062539782375)" y="(403.35269026027527, 104.60527219297364)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(377.4139238050848, 72.648198387702)" y="(403.63277274311986, 87.87483624159358)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(377.2042699480953, 87.55062539782375)" y="(404.12739346179296, 97.7906656425912)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(377.4139238050848, 72.648198387702)" y="(404.3776251327363, 81.00718584819697)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(367.7691239993728, 79.26757804001682)" y="(404.0426106720406, 92.83377941255458)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(367.94407509756275, 65.02507658547256)" y="(404.27122785756364, 76.0569732306758)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.9068626831286, 89.99653977202252)" y="(608.164075663226, 82.27096574776806)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(597.0937265440589, 59.756384462234564)" y="(608.3155175316497, 51.2461252551293)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.4747524494014, 84.85903529566713)" y="(608.4142207842378, 82.2263244552305)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.6392666687607, 54.64982790639624)" y="(608.5654297798756, 51.1840282244375)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(596.9068626831286, 89.99653977202252)" y="(617.7965402842092, 86.96919823717326)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(597.0937265440589, 59.756384462234564)" y="(617.9670139473747, 55.27120343095157)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(617.7965402842092, 86.96919823717326)" y="(648.1872074616549, 93.28308315575123)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(617.9670139473747, 55.27120343095157)" y="(648.3806006004452, 59.46256561239716)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(648.1872074616549, 93.28308315575123)" y="(660.151589263085, 100.3219951740466)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(648.3806006004452, 59.46256561239716)" y="(660.3738716569496, 65.66517655423377)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(660.151589263085, 100.3219951740466)" y="(709.6680389943067, 106.25088051275816)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(660.3738716569496, 65.66517655423377)" y="(709.9086481221602, 68.13643407088239)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(709.6680389943067, 106.25088051275816)" y="(724.7944789649046, 113.41152223269455)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(709.9086481221602, 68.13643407088239)" y="(725.0640268700954, 74.24001407704782)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(724.7944789649046, 113.41152223269455)" y="(740.7945363157487, 114.24410718982108)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(725.0640268700954, 74.24001407704782)" y="(741.065279987466, 73.95551421202254)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(671.249426854396, 85.19252657215111)" y="(709.6680389943067, 106.25088051275816)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(671.4040075849625, 49.763276354759)" y="(709.9086481221602, 68.13643407088239)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(756.724643182737, 92.50376803555992)" y="(735.5598320755525, 92.12402444100007)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(756.8981053132738, 51.106411418062635)" y="(735.7348608494503, 52.20423320273403)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(756.5201018745429, 85.50019788253121)" y="(735.5598320755525, 92.12402444100007)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(756.6630378694972, 44.118186894920655)" y="(735.7348608494503, 52.20423320273403)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(735.5598320755525, 92.12402444100007)" y="(712.5106681540783, 89.50295267533511)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(735.7348608494503, 52.20423320273403)" y="(712.6777714248747, 51.19261414615903)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(712.5106681540783, 89.50295267533511)" y="(671.249426854396, 85.19252657215111)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(712.6777714248747, 51.19261414615903)" y="(671.4040075849625, 49.763276354759)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(669.0043701404065, 79.87160972575657)" y="(683.5666767777002, 81.24185887956992)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(669.1360771031759, 44.599896478815936)" y="(683.7021443668928, 44.9533477606019)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(683.5666767777002, 81.24185887956992)" y="(697.8432711956557, 82.84255021438003)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(683.7021443668928, 44.9533477606019)" y="(697.983548369346, 45.55715158919338)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(683.5666767777002, 81.24185887956992)" y="(696.6600621177349, 78.31427661003545)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(683.7021443668928, 44.9533477606019)" y="(696.7807621820248, 41.1121670458233)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(697.8432711956557, 82.84255021438003)" y="(712.5106681540783, 89.50295267533511)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(697.983548369346, 45.55715158919338)" y="(712.6777714248747, 51.19261414615903)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(697.8432711956557, 82.84255021438003)" y="(728.0646942939493, 85.35496860928833)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(697.983548369346, 45.55715158919338)" y="(728.2113305352395, 45.95944109454285)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(728.0646942939493, 85.35496860928833)" y="(756.3082765302097, 77.72527621523477)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(728.2113305352395, 45.95944109454285)" y="(756.4173220139637, 36.35923683375586)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(756.1757626719482, 73.39920919481665)" y="(727.9817998270446, 80.7305694106035)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(756.2659532682155, 32.04307943722233)" y="(728.1082719700062, 41.34153304586653)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(727.9817998270446, 80.7305694106035)" y="(696.6600621177349, 78.31427661003545)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(728.1082719700062, 41.34153304586653)" y="(696.7807621820248, 41.1121670458233)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(696.6600621177349, 78.31427661003545)" y="(641.8171597778564, 72.23946674668696)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(696.7807621820248, 41.1121670458233)" y="(641.9197076691198, 38.866844892618246)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(641.8171597778564, 72.23946674668696)" y="(654.8031773828261, 78.19678742985707)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(641.9197076691198, 38.866844892618246)" y="(654.9297398361377, 43.916709218057804)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.8031773828261, 78.19678742985707)" y="(669.0043701404065, 79.87160972575657)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.9297398361377, 43.916709218057804)" y="(669.1360771031759, 44.599896478815936)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.2014964202826, 83.26425440283492)" y="(669.0043701404065, 79.87160972575657)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.350260385836, 49.02540751406923)" y="(669.1360771031759, 44.599896478815936)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(671.249426854396, 85.19252657215111)" y="(654.2014964202826, 83.26425440283492)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(671.4040075849625, 49.763276354759)" y="(654.350260385836, 49.02540751406923)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.2014964202826, 83.26425440283492)" y="(620.1119790821394, 79.62477670633234)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.350260385836, 49.02540751406923)" y="(620.2500556353189, 47.766260575153865)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(620.1835165524099, 70.04799688700587)" y="(641.8171597778564, 72.23946674668696)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(620.2797977466253, 38.185945341712795)" y="(641.9197076691198, 38.866844892618246)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(606.8466540699883, 62.751090251957066)" y="(705.533280050091, 74.34939947619569)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(606.9131293878891, 31.821191439405084)" y="(705.6353295185254, 36.52845775883179)"/>
     </geometry>
   </track>
   <track nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
     <geometry nsmap="{'railml': 'http://www.railml.org/schemas/2013'}">
-      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.8031773828261, 78.19678742985707)" y="(445.1808830969094, 55.47034964058548)"/>
+      <point nsmap="{'railml': 'http://www.railml.org/schemas/2013'}" x="(654.9297398361377, 43.916709218057804)" y="(445.2402142836945, 35.82738668809179)"/>
     </geometry>
   </track>
 </railml>
