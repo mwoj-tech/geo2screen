@@ -1,0 +1,8 @@
+- FIX DELETION OF PROPERTIES
+- import relsiec and elem siec
+
+- make branch before meeting
+
+- show output in qgis
+
+- remove useless cells
