@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<railML xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.railml.org/schemas/3.2 https://www.railml.org/schemas/3.2/railml3.xsd" version="3.2" xmlns="https://www.railml.org/schemas/3.2">
+    <metadata>
+        <dc:format>3.2</dc:format>
+        <dc:identifier>1</dc:identifier>
+        <dc:source>railML.org</dc:source>
+        <dc:title xml:lang="pl">Test</dc:title>
+        <dc:language>pl</dc:language>
+        <dc:date>2024-01-19T12:32:37+01:00</dc:date>
+        <dc:creator xml:lang="pl">Cyfrowa Bocznica</dc:creator>
+        <dc:description>Plik utowrzony za pomocą funkcji eksportu c CB do railMl, wersja 1.0</dc:description>
+    </metadata>
+    <common id="scheme-co">
+        <organizationalUnits>
+            <organizationalUnit id="206dfd54-2c6d-481f-81e5-89d1a2134f2b">
+                <name name="OCT" language="pl" />
+            </organizationalUnit>
+            <organizationalUnit id="6b1106c6-6a83-4acc-84d9-439c0057de45">
+                <name name="x" language="pl" />
+            </organizationalUnit>
+        </organizationalUnits>
+        <positioning>
+            <geometricPositioningSystems>
+                <geometricPositioningSystem id="pos-geo">
+                    <isValid from="2023-12-01" to="2033-12-01" />
+                </geometricPositioningSystem>
+            </geometricPositioningSystems>
+            <linearPositioningSystems>
+                <linearPositioningSystem id="pos-l" units="m" linearReferencingMethod="absolute" startMeasure="1" endMeasure="1">
+                    <isValid from="2023-12-01" to="2033-12-01" />
+                </linearPositioningSystem>
+            </linearPositioningSystems>
+            <screenPositioningSystems>
+                <screenPositioningSystem id="pos-sc" pxX="1" pxY="1">
+                    <isValid from="2023-12-01" to="2033-12-01" />
+                </screenPositioningSystem>
+            </screenPositioningSystems>
+        </positioning>
+    </common>
+    <infrastructure id="scheme-infr">
+        <topology>
+            <netElements>
+                <netElement id="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae">
+                    <name name="C" language="pl" />
+                    <associatedPositioningSystem id="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae_aps">
+                        <intrinsicCoordinate id="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae_ic0" intrinsicCoord="0">
+                            <linearCoordinate measure="60" positioningSystemRef="pos-l" />
+                            <geometricCoordinate x="60" y="10" positioningSystemRef="pos-l" />
+                        </intrinsicCoordinate>
+                        <intrinsicCoordinate id="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae_ic1" intrinsicCoord="1">
+                            <linearCoordinate measure="70" positioningSystemRef="pos-l" />
+                            <geometricCoordinate x="70" y="10" positioningSystemRef="pos-l" />
+                        </intrinsicCoordinate>
+                    </associatedPositioningSystem>
+                </netElement>
+                <netElement id="es_36cd87b2-f334-406d-90a0-13dc0283dd45">
+                    <name name="B" language="pl" />
+                    <associatedPositioningSystem id="es_36cd87b2-f334-406d-90a0-13dc0283dd45_aps">
+                        <intrinsicCoordinate id="es_36cd87b2-f334-406d-90a0-13dc0283dd45_ic0" intrinsicCoord="0">
+                            <linearCoordinate measure="30" positioningSystemRef="pos-l" />
+                            <geometricCoordinate x="30" y="10" positioningSystemRef="pos-l" />
+                        </intrinsicCoordinate>
+                        <intrinsicCoordinate id="es_36cd87b2-f334-406d-90a0-13dc0283dd45_ic1" intrinsicCoord="1">
+                            <linearCoordinate measure="60" positioningSystemRef="pos-l" />
+                            <geometricCoordinate x="60" y="10" positioningSystemRef="pos-l" />
+                        </intrinsicCoordinate>
+                    </associatedPositioningSystem>
+                </netElement>
+				
+				
+                <netElement id="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                    <name name="A" language="pl" />
+                    <associatedPositioningSystem id="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265_aps">
+                       
+
+					   <intrinsicCoordinate id="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265_ic0" intrinsicCoord="0">
+                            <linearCoordinate measure="10" positioningSystemRef="pos-l" />
+                            <geometricCoordinate x="10" y="10" positioningSystemRef="pos-l" />
+                        </intrinsicCoordinate>
+                       
+
+
+					   <intrinsicCoordinate id="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265_ic1" intrinsicCoord="1">
+                            <linearCoordinate measure="30" positioningSystemRef="pos-l" />
+                            <geometricCoordinate x="30" y="10" positioningSystemRef="pos-l" />
+                       
+
+					   </intrinsicCoordinate>
+                    </associatedPositioningSystem>
+                </netElement>
+				
+				
+				
+				
+				
+				
+            </netElements>
+			
+			
+			
+            <netRelations>
+			
+                <netRelation id="rel_d2523501-bdbb-40ef-8dd3-61d76e38830a" navigability="Both" positionOnA="1" positionOnB="0">
+                    <name name="AB" language="pl" />
+                    <elementA ref="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265" />
+                    <elementB ref="es_36cd87b2-f334-406d-90a0-13dc0283dd45" />
+                </netRelation>
+				
+                <netRelation id="rel_6f5f10cd-eaed-4418-b6ec-66a4edee2615" navigability="AB" positionOnA="1" positionOnB="0">
+                    <name name="BC" language="pl" />
+                    <elementA ref="es_36cd87b2-f334-406d-90a0-13dc0283dd45" />
+                    <elementB ref="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae" />
+                </netRelation>
+				
+            </netRelations>
+			
+			
+			
+			
+            <networks>
+                <network id="network_id">
+                    <level id="level_id" descriptionLevel="Micro">
+                        <networkResource ref="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae" />
+                        <networkResource ref="es_36cd87b2-f334-406d-90a0-13dc0283dd45" />
+                        <networkResource ref="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265" />
+                        <networkResource ref="rel_a33743da-bdc2-413c-9bce-4feed1da5daf" />
+                        <networkResource ref="rel_d2523501-bdbb-40ef-8dd3-61d76e38830a" />
+                        <networkResource ref="rel_6f5f10cd-eaed-4418-b6ec-66a4edee2615" />
+                        <networkResource ref="rel_bb816aa7-264f-45e5-8f7b-38248516c31c" />
+                    </level>
+                </network>
+            </networks>
+        </topology>
+        <geometry>
+            <horizontalCurves>
+                <horizontalCurve id="hor_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae" curveType="straight" radius="0">
+                    <linearLocation id="loc_hor_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae">
+                        <associatedNetElement netElementRef="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae" keepsOrientation="true" />
+                    </linearLocation>
+                </horizontalCurve>
+                <horizontalCurve id="hor_36cd87b2-f334-406d-90a0-13dc0283dd45" curveType="arc" radius="300">
+                    <linearLocation id="loc_hor_36cd87b2-f334-406d-90a0-13dc0283dd45">
+                        <associatedNetElement netElementRef="es_36cd87b2-f334-406d-90a0-13dc0283dd45" keepsOrientation="true" />
+                    </linearLocation>
+                </horizontalCurve>
+                <horizontalCurve id="hor_30a23fa1-ee3b-4fba-a2bd-79b0733e9265" curveType="straight" radius="0">
+                    <linearLocation id="loc_hor_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <associatedNetElement netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265" keepsOrientation="true" />
+                    </linearLocation>
+                </horizontalCurve>
+            </horizontalCurves>
+            <gradientCurves>
+                <gradientCurve id="grad_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae" curveType="arc" gradient="10">
+                    <linearLocation id="loc_grad_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae">
+                        <associatedNetElement netElementRef="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae" keepsOrientation="true" />
+                    </linearLocation>
+                </gradientCurve>
+                <gradientCurve id="grad_36cd87b2-f334-406d-90a0-13dc0283dd45" curveType="arc" gradient="13">
+                    <linearLocation id="loc_grad_36cd87b2-f334-406d-90a0-13dc0283dd45">
+                        <associatedNetElement netElementRef="es_36cd87b2-f334-406d-90a0-13dc0283dd45" keepsOrientation="true" />
+                    </linearLocation>
+                </gradientCurve>
+                <gradientCurve id="grad_30a23fa1-ee3b-4fba-a2bd-79b0733e9265" curveType="arc" gradient="12">
+                    <linearLocation id="loc_grad_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <associatedNetElement netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265" keepsOrientation="true" />
+                    </linearLocation>
+                </gradientCurve>
+            </gradientCurves>
+        </geometry>
+        <functionalInfrastructure>
+            <balises>
+                <balise id="bal_32906dd4-3b65-47ed-9705-608219a5bcbe" type="controlled">
+                    <name name="bal2" language="pl" />
+                    <spotLocation id="loc_bal_32906dd4-3b65-47ed-9705-608219a5bcbe" netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <geometricCoordinate x="1" y="1" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="1" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </balise>
+                <balise id="bal_32eaede7-85fb-4d99-8c02-d91e2222ccf1" type="controlled">
+                    <name name="2" language="pl" />
+                    <spotLocation id="loc_bal_32eaede7-85fb-4d99-8c02-d91e2222ccf1" netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <geometricCoordinate x="2" y="2" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="10" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </balise>
+                <balise id="bal_1ab02350-4043-4e12-a451-cee0d70bf8a7" type="controlled">
+                    <name name="1" language="pl" />
+                    <spotLocation id="loc_bal_1ab02350-4043-4e12-a451-cee0d70bf8a7" netElementRef="es_">
+                        <geometricCoordinate x="1" y="1" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="1" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </balise>
+            </balises>
+            <baliseGroups>
+                <baliseGroup id="bg_2c014b36-4029-48d6-873a-cd824e050334">
+                    <name name="bb" language="pl" />
+                    <spotLocation id="loc_bg_2c014b36-4029-48d6-873a-cd824e050334" netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <geometricCoordinate x="1" y="1" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="1" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                    <applicationType value="ETCS" />
+                </baliseGroup>
+            </baliseGroups>
+            <derailersIS>
+                <derailerIS id="der_4af79bac-0aac-41e9-954b-f17c9ace7bb0" type="singleDerailer">
+                    <name name="Wykolejnica 1" language="pl" />
+                    <spotLocation id="loc_der_4af79bac-0aac-41e9-954b-f17c9ace7bb0" netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <geometricCoordinate x="2" y="2" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="2" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </derailerIS>
+            </derailersIS>
+            <signalsIS>
+                <signalIS id="si_cf825f5c-199f-45c8-973a-c01c891ae3b5" isSwitchable="true">
+                    <name name="12" language="pl" />
+                    <spotLocation id="loc_si_cf825f5c-199f-45c8-973a-c01c891ae3b5" netElementRef="es_30a23fa1-ee3b-4fba-a2bd-79b0733e9265">
+                        <geometricCoordinate x="10" y="10" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="10" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </signalIS>
+                <signalIS id="si_29eb2b78-91f2-4f91-9af8-1f5663411b58" isSwitchable="true">
+                    <name name="semA" language="pl" />
+                    <spotLocation id="loc_si_29eb2b78-91f2-4f91-9af8-1f5663411b58" netElementRef="es_27da3ec0-04fc-4cef-b31e-a95a1ebcd0ae">
+                        <geometricCoordinate x="40" y="40" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="10" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </signalIS>
+                <signalIS id="wsk_b2e7e7ff-ca89-49f1-9307-63620d2610d5" isSwitchable="false">
+                    <name name="wskaźnik" language="pl" />
+                    <spotLocation id="loc_si_b2e7e7ff-ca89-49f1-9307-63620d2610d5" netElementRef="es_">
+                        <geometricCoordinate x="50" y="10" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="10" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </signalIS>
+            </signalsIS>
+            <switchesIS>
+                <switchIS id="sw_bc3e12b6-4228-491e-bdd4-b2b0d67a98ab" type="ordinarySwitch">
+                    <name name="aa" language="pl" />
+                    <spotLocation id="loc_sw_bc3e12b6-4228-491e-bdd4-b2b0d67a98ab" netElementRef="es_36cd87b2-f334-406d-90a0-13dc0283dd45">
+                        <geometricCoordinate x="1" y="1" positioningSystemRef="pos-geo" />
+                        <linearCoordinate measure="1" positioningSystemRef="pos-l" />
+                    </spotLocation>
+                </switchIS>
+            </switchesIS>
+        </functionalInfrastructure>
+    </infrastructure>
+    <interlocking>
+        <assetsForInterlockings>
+            <assetsForInterlocking id="assetsIL_id">
+                <signalsIL>
+                    <signalIL id="IL_si_cf825f5c-199f-45c8-973a-c01c891ae3b5">
+                        <assetName name="1" language="pl" />
+                        <refersTo ref="si_cf825f5c-199f-45c8-973a-c01c891ae3b5" />
+                    </signalIL>
+                    <signalIL id="IL_si_29eb2b78-91f2-4f91-9af8-1f5663411b58">
+                        <assetName name="semA" language="pl" />
+                        <refersTo ref="si_29eb2b78-91f2-4f91-9af8-1f5663411b58" />
+                    </signalIL>
+                </signalsIL>
+            </assetsForInterlocking>
+        </assetsForInterlockings>
+    </interlocking>
+</railML>
