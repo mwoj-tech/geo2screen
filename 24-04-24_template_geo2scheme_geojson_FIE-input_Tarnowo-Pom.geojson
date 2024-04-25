@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "24-04-24_template_geo2scheme_geojson_FIE-input_Tarnowo-Pom",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257195.391965669259662, 610960.065844790544361 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257208.422391203668667, 610955.121590757160448 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257476.464086119784042, 610851.856132124550641 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257525.330844886309933, 610844.420260647544637 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257568.663181230367627, 610829.813726946013048 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257580.990178767562611, 610829.863714531529695 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257581.721551570022712, 610833.788341274601407 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257674.811156152718468, 610809.542443890240975 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257980.374757165671326, 610731.814074323279783 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258027.596090194856515, 610714.376946172094904 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 257993.400890320714097, 610730.486337848124094 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258041.007861576363211, 610712.809032192337327 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258070.435846289008623, 610713.22820312960539 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258069.050069319084287, 610706.875634504714981 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258125.161032631760463, 610697.837733760592528 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258128.922563976550009, 610699.417721747886389 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258151.399533513118513, 610693.978604882024229 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258298.348112526116893, 610661.426412510219961 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "Id": null }, "geometry": { "type": "Point", "coordinates": [ 258284.701972479844699, 610662.209192421752959 ] } }
+]
+}
