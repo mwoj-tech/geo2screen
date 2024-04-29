@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "24-04-29_geo2scheme_LK-403-posterunki",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Piła Północ" }, "geometry": { "type": "Point", "coordinates": [ 346415.767882707936224, 588515.413876579725184 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": null }, "geometry": { "type": "Point", "coordinates": [ 332311.50312358973315, 604046.523800346883945 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Wałcz" }, "geometry": { "type": "Point", "coordinates": [ 332311.50312358973315, 604046.523800346883945 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Rzecz Pomorski" }, "geometry": { "type": "Point", "coordinates": [ 270780.597831426304765, 606120.488587188767269 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Tarnowo Pomorskie" }, "geometry": { "type": "Point", "coordinates": [ 257956.616943498025648, 610739.998818300198764 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Ulikowo" }, "geometry": { "type": "Point", "coordinates": [ 241693.647981065209024, 616296.832153113908134 ] } }
+]
+}
