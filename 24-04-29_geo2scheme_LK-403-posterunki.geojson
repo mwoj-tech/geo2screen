@@ -8,6 +8,7 @@
 { "type": "Feature", "properties": { "fid": 3, "name": "Wałcz" }, "geometry": { "type": "Point", "coordinates": [ 332311.50312358973315, 604046.523800346883945 ] } },
 { "type": "Feature", "properties": { "fid": 4, "name": "Rzecz Pomorski" }, "geometry": { "type": "Point", "coordinates": [ 270780.597831426304765, 606120.488587188767269 ] } },
 { "type": "Feature", "properties": { "fid": 5, "name": "Tarnowo Pomorskie" }, "geometry": { "type": "Point", "coordinates": [ 257956.616943498025648, 610739.998818300198764 ] } },
-{ "type": "Feature", "properties": { "fid": 6, "name": "Ulikowo" }, "geometry": { "type": "Point", "coordinates": [ 241693.647981065209024, 616296.832153113908134 ] } }
+{ "type": "Feature", "properties": { "fid": 6, "name": "Ulikowo" }, "geometry": { "type": "Point", "coordinates": [ 241693.647981065209024, 616296.832153113908134 ] } },
+{ "type": "Feature", "properties": { "fid": null, "name": "Ognica" }, "geometry": { "type": "Point", "coordinates": [ 263894.579205078014638, 611518.019415272283368 ] } }
 ]
 }
